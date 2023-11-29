@@ -13,7 +13,7 @@
 ### Работа
 Я работаю в [ICL-Services](https://icl-services.com) в роли проектного руководителя на крупном проекте - продуктовый ритейл 
 
-### Контакты
+
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/vyacheslav-kondrakov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
