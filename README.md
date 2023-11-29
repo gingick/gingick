@@ -29,7 +29,7 @@
   
 📄 Больше про мой опыт в [Резюме](https://career.habr.com/gingick)
 
-📫 Можно связаться со мной [LinkedIn](https://www.linkedin.com/in/vyacheslav-kondrakov), [email](mailto:v.kondrakov@outlook.com)
+📫 Можно связаться со мной [LinkedIn](https://www.linkedin.com/in/vyacheslav-kondrakov), [e-mail](mailto:v.kondrakov@outlook.com)
 
 
 ### Работа
