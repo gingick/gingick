@@ -1,6 +1,18 @@
-### Обо мне
-Всем привет меня зовут Вячеслав Кондраков.
 
+<div id="header" align="center">
+    <h1>Привет, я Вячеслав </h1>
+    <h3>DevOps Teamlead</h3>
+</div>
+<div id="socials" align="center">
+    <a href="https://www.linkedin.com/in/vyacheslav-kondrakov">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/gingick">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
+### Обо мне
 В детстве первый компьютер был [Клон ZX Spectrum](https://speccy.info/%D0%9D%D0%B0%D1%84%D0%B0%D0%BD%D1%8F)  так проявился мой интерес к ИТ
 Начал работать системным администратором в 2004 г. Работал много с Windows Server 2003/2008/2012, инфраструктура и сети, Cisco, Mikrotik и т.п. 
 
@@ -17,18 +29,13 @@
   
 📄 Больше про мой опыт в [Резюме](https://career.habr.com/gingick)
 
+📫 Можно связаться со мной [LinkedIn](https://www.linkedin.com/in/vyacheslav-kondrakov), [email](mailto:v.kondrakov@outlook.com)
+
 
 ### Работа
 Я работаю в [ICL-Services](https://icl-services.com) в роли проектного руководителя на крупном проекте - продуктовый ритейл 
 
 
-<div id="socials" align="center">
-    <a href="https://www.linkedin.com/in/vyacheslav-kondrakov">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/gingick">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
+
 
 
